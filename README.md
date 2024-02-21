@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepdas17
 - 👀 I’m interested in MERN Stack Web devlopment, Cyber Security, Devops and AI/ML
-- 🌱 I’m currently learning Typescript to make my code more robust and Kubernates for automation and depoloyment
+- 🌱 I’m currently learning Typescript to make my code more robust and Kubernates for automation and deployment
 - 💞️ I’m looking to collaborate on Web devlopment and web designing projects
 - 📫 How to reach me through my Linked profile or Facebook. 
 - 😄 Pronouns: He/him
